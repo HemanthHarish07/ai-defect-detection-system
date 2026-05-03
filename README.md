@@ -68,17 +68,35 @@ User Upload → Frontend → Backend → AI Service → Prediction
 
 ---
 
-## 📁 Project Structure
-'''
+## 📂 Project Structure
+
+```text
+ai-defect-detection-system/
 ├── frontend/
+│   ├── pages/
+│   ├── components/
+│   ├── services/
+│   └── Dockerfile
 ├── backend/
+│   ├── routes/
+│   ├── services/
+│   ├── models.py
+│   ├── schemas.py
+│   └── main.py
 ├── ai-service/
+│   ├── api/
+│   ├── inference/
+│   ├── training/
+│   └── Dockerfile
 ├── docs/
 ├── sample_data/
+├── assets/
+│   ├── dashboard.png
+│   └── backend.png
 ├── docker-compose.yml
+├── PROJECT_SUMMARY.md
 └── README.md
-'''
----
+```
 
 ## 🚀 Quick Start
 
