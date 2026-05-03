@@ -208,9 +208,6 @@ GET /api/stats
 - AI integration pipeline
 
 ---
-
----
-
 ## 📸 Screenshots
 
 ### Dashboard
