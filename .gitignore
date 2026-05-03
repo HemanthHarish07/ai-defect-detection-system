@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+*.coverage
+.env
+
+# Node
+node_modules/
+.next/
+out/
+.DS_Store
+
+# Docker
+docker-compose.override.yml
+
+# Backend
+backend/uploads/
+backend/*.db
+backend/instance/
+
+# AI service
+ai-service/model/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
