@@ -77,7 +77,7 @@ User Upload → Frontend → Backend → AI Service → Prediction
 ├── sample_data/
 ├── docker-compose.yml
 └── README.md
-
+.
 ---
 
 ## 🚀 Quick Start
